@@ -14,5 +14,5 @@ def fizz_buzz(n)
   end
 end
 
-# Result
+# ---------------------
 fizz_buzz 15
