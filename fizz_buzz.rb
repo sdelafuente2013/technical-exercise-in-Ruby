@@ -15,4 +15,4 @@ def fizz_buzz(n)
 end
 
 # ---------------------
-fizz_buzz 15
+fizz_buzz 100
